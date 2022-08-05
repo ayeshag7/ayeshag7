@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayesha Gull.
-- 👀 I’m interested in Data Science, ML, AI, and Web Development.
+- 👀 I’m interested in Data Science, ML, and AI.
 - 🌱 I’m currently majoring in Computer Science.
-- 💞️ I’m looking to collaborate on different projects.
+- 💞️ I’m looking to display my projects and collaborate with others.
 - 📫 How to reach me:
 - Email: ayeshaiqbal2592@gmail.com
 - Twitter: @ayesha_g7

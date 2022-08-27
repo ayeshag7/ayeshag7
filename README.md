@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayesha Gull.
-- 🌱 I’m currently majoring in Computer Science.
+- 🌱 I’m majoring in Computer Science.
 - 👀 I’m interested in Data Science, ML, and AI.
 - 💞️ I’m looking to display my projects, share my thoughts, and collaborate with others.
 - 📫 How to reach me:

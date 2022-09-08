@@ -8,8 +8,7 @@
 ![icons8-django-96](https://user-images.githubusercontent.com/106478752/189052619-1108f576-b528-4f2e-babe-b8839ad6337b.png)
 
 ## Connect with me
-* @ayesha_g7
-* @ayeshaiq.hashnode.dev
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 ## GitHub Stats
 [![Ayesha’s github stats](https://github-readme-stats.vercel.app/api?username=ayeshag7)](https://github.com/ayeshag7)

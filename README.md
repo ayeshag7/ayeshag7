@@ -8,10 +8,10 @@
 ![icons8-django-96](https://user-images.githubusercontent.com/106478752/189052619-1108f576-b528-4f2e-babe-b8839ad6337b.png)
 
 ## GitHub Stats
-[![Ayesha’s github stats](https://github-readme-stats.vercel.app/api?username=ayeshag7)](https://github.com/ayeshag7)
+![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeshag7&show_icons=true&theme=radical)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshag7&layout=compact)](https://github.com/ayeshag7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshag7&layout=compact&theme=radical)](https://github.com/ayeshag7)
 
 <!---
 ayeshag7/ayeshag7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

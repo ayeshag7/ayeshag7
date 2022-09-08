@@ -7,9 +7,15 @@
 ![icons8-selenium-96](https://user-images.githubusercontent.com/106478752/189048425-74d9e4ae-775d-47d4-9f64-645c1f7845aa.png)
 ![icons8-django-96](https://user-images.githubusercontent.com/106478752/189052619-1108f576-b528-4f2e-babe-b8839ad6337b.png)
 
-
 ## Connect with me
-![icons8-twitter-48](https://user-images.githubusercontent.com/106478752/189050685-36c13789-530b-4f4e-a33e-7adabadcf3d9.png) ![icons8-hashnode-48](https://user-images.githubusercontent.com/106478752/189050877-6c754f9d-8841-4c13-a28a-5fa3b5620d7b.png)
+* @ayesha_g7
+* @ayeshaiq.hashnode.dev
+
+## GitHub Stats
+[![Ayesha’s github stats](https://github-readme-stats.vercel.app/api?username=ayeshag7)](https://github.com/ayeshag7)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshag7&layout=compact)](https://github.com/ayeshag7)
 
 <!---
 ayeshag7/ayeshag7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,6 @@
 ![icons8-django-96](https://user-images.githubusercontent.com/106478752/189052619-1108f576-b528-4f2e-babe-b8839ad6337b.png)
 
 ## Connect with me
-<a href=”https://www.twitter.com/in/ayeshag7/"><img align=”left” src=”https://raw.githubusercontent.com/ayeshag7/ayeshag7/main/Images/icons8-twitter-48.png" alt=”Ayesha | Twitter” width=”21px”/></a>
 
 ## GitHub Stats
 ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeshag7&show_icons=true&theme=radical)

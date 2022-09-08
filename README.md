@@ -9,10 +9,12 @@
 
 ## Connect with me
 
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ayeshag7)
-[<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://ayeshaiq.hashnode.dev/)
-<a href="ayeshaiqbal2592@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+<a href="https://twitter.com/ayesha_g7" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://ayeshaiq.hashnode.dev/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="twitter" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
 ## GitHub Stats

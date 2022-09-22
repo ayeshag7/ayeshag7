@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Ayesha Gull.
-* I'm an undergraduate CS student and I'm passionate about Data Science, Machine Learning, Computer Vision, Backend Web Development, databases, and more.
-* Here to display my work and help others with their.
+
+* 👩‍💻 I'm an undergraduate student majoring in CS.
+* 🌈 I'm passionate about Data Science, ML, Computer Vision, Backend Web Development, and more.
+* 🔭 I'm currently learning [Django](https://www.djangoproject.com/).
+* ⚒️ I'm currently working on creating [Web Automations with Selenium](https://github.com/ayeshag7/Bot-Automation-With-Selenium) and an [ML](https://github.com/ayeshag7/House-Prices-Prediction) project.
+* 📈 Here to display my work and help others with their.
 
 ## Languages and Tools
 ![icons8-python-96](https://user-images.githubusercontent.com/106478752/189045726-9f0d46f3-fdfe-4777-bfa2-86117883f0e5.png)![icons8-mysql-logo-96](https://user-images.githubusercontent.com/106478752/189045775-4b735ef7-3444-415d-a0c9-12d32d293541.png)![icons8-pandas-96](https://user-images.githubusercontent.com/106478752/189045740-1fe2153c-de5f-46b9-9ef1-0de2e6a89576.png)![icons8-numpy-96](https://user-images.githubusercontent.com/106478752/189048959-1931796d-fe3c-48e3-8c45-9ed221b561a9.png)![Untitled design (14)](https://user-images.githubusercontent.com/106478752/189095028-ef200543-943e-4338-8e37-c855a2e6e88e.png) ![Untitled design (15)](https://user-images.githubusercontent.com/106478752/190401507-09c2ed64-1883-48fe-b0a5-ecf1aba99047.png)

@@ -29,7 +29,7 @@
 ![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeshag7&show_icons=true&theme=radical)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshag7&theme=radical)](https://github.com/ayeshag7/github-readme-stats)
 
 <!---
 ayeshag7/ayeshag7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

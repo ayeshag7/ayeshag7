@@ -2,8 +2,8 @@
 
 * 👩‍💻 I'm an undergraduate student majoring in CS.
 * 🌈 I'm passionate about Data Science, ML, Computer Vision, Backend Web Development, and more.
-* 🔭 I'm currently learning [Django](https://www.djangoproject.com/).
-* ⚒️ I'm currently working on creating [Web Automations with Selenium](https://github.com/ayeshag7/Bot-Automation-With-Selenium) and an [ML](https://github.com/ayeshag7/House-Prices-Prediction) project.
+* 🔭 I'm currently learning [Django](https://www.djangoproject.com/), and JavaScript.
+* ⚒️ I'm currently working on creating a personal blog.
 * 📈 Here to display my work and help others with their.
 
 ## Languages and Tools

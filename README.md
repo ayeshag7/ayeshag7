@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Ayesha Gull.
 
 * 👩‍💻 I'm an undergraduate student majoring in CS.
-* 🌈 I'm passionate about Data Science, ML, Computer Vision, Backend Web Development, and more.
-* 🔭 I'm currently learning [Django](https://www.djangoproject.com/), and JavaScript.
+* 🌈 I'm passionate about Data Science, ML, Computer Vision, Web Development, and more.
+* 🔭 I'm currently learning [Django](https://www.djangoproject.com/), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 * ⚒️ I'm currently working on creating a personal blog.
 * 📈 Here to display my work and help others with their.
 

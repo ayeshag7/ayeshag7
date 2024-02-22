@@ -2,7 +2,7 @@
 
 * 👩‍💻 I'm an undergraduate student majoring in CS.
 * 🌈 I'm passionate about Data Science, ML, Computer Vision, Web Development, and more.
-* 🔭 I'm currently focusing on Ml/AI.
+* 🔭 I'm currently focusing on ML/AI.
 * 📈 Here to display my work and help others with their.
 
 ## Languages and Tools

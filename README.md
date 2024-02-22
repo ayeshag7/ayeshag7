@@ -2,7 +2,7 @@
 
 * 👩‍💻 I'm an undergraduate student majoring in CS.
 * 🌈 I'm passionate about Data Science, ML, Computer Vision, Web Development, and more.
-* 🔭 I'm currently learning Frontend Web Development with JavaScript and React.
+* 🔭 I'm currently focusing on Ml/AI.
 * 📈 Here to display my work and help others with their.
 
 ## Languages and Tools
@@ -11,6 +11,7 @@
 ![Untitled design (4)](https://user-images.githubusercontent.com/106478752/216510892-317ecd1d-6c78-436e-b73e-c062d8e9dcbb.png)
 ![React](https://user-images.githubusercontent.com/106478752/227698612-29d623b9-519a-4b41-871f-ffa12fd19c64.png)
 ![icons8-selenium-96](https://user-images.githubusercontent.com/106478752/189048425-74d9e4ae-775d-47d4-9f64-645c1f7845aa.png)
+![q1](https://github.com/ayeshag7/Chat2PDF/assets/106478752/9c88e209-3e34-432f-a29f-ad82b4d0f9ec)
 
 ## Connect with me
 

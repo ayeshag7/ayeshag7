@@ -27,12 +27,6 @@
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
-## GitHub Stats
-![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeshag7&show_icons=true&theme=radical)
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshag7&theme=radical)](https://github.com/ayeshag7/github-readme-stats)
-
 <!---
 ayeshag7/ayeshag7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
